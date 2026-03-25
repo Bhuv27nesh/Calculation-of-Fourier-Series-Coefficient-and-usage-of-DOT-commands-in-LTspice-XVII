@@ -1,0 +1,62 @@
+Circuit: * E:\SOFTWARE\EXERCISE LTSPICE\FOURIER SERIES\Fourier_basics.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+N-Period=100
+Fourier components of V(reference)
+DC component:6.90927e-017
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+03	1.000e+00	1.000e+00	   -0.00°	    0.00°
+    2   	2.000e+03	6.994e-15	6.994e-15	   -0.14°	   -0.14°
+    3   	3.000e+03	1.075e-14	1.075e-14	   -0.51°	   -0.51°
+    4   	4.000e+03	1.418e-14	1.418e-14	   -0.17°	   -0.17°
+    5   	5.000e+03	1.774e-14	1.774e-14	   -0.16°	   -0.16°
+    6   	6.000e+03	2.135e-14	2.135e-14	   -0.15°	   -0.15°
+    7   	7.000e+03	2.487e-14	2.487e-14	   -0.17°	   -0.17°
+    8   	8.000e+03	2.841e-14	2.841e-14	   -0.23°	   -0.23°
+    9   	9.000e+03	3.203e-14	3.203e-14	   -0.10°	   -0.10°
+   10   	1.000e+04	3.553e-14	3.553e-14	   -0.17°	   -0.17°
+Total Harmonic Distortion: 0.000000%(0.000975%)
+
+N-Period=100
+Fourier components of V(out)
+DC component:4.99584
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+03	7.312e-03	1.000e+00	  179.82°	    0.00°
+    2   	2.000e+03	5.018e-03	6.863e-01	   89.65°	  -90.16°
+    3   	3.000e+03	2.745e-03	3.755e-01	   -0.53°	 -180.34°
+    4   	4.000e+03	1.217e-03	1.665e-01	  -90.71°	 -270.53°
+    5   	5.000e+03	4.394e-04	6.009e-02	  179.09°	   -0.72°
+    6   	6.000e+03	1.261e-04	1.725e-02	   88.88°	  -90.94°
+    7   	7.000e+03	2.591e-05	3.543e-03	   -1.37°	 -181.19°
+    8   	8.000e+03	1.730e-06	2.366e-04	  -92.13°	 -271.94°
+    9   	9.000e+03	1.538e-06	2.103e-04	   -1.40°	 -181.22°
+   10   	1.000e+04	9.563e-07	1.308e-04	  -91.75°	 -271.57°
+Total Harmonic Distortion: 80.228033%(80.228033%)
+
+
+
+Date: Wed Mar 25 13:36:50 2026
+Total elapsed time: 5.384 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2000042
+traniter = 2000034
+tranpoints = 1000018
+accept = 1000018
+rejected = 0
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1:      27 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

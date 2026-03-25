@@ -1,0 +1,18 @@
+* E:\SOFTWARE\EXERCISE LTSPICE\FOURIER SERIES\Fourier_basics.asc
+V1 Reference 0 SINE(0 1 1k)
+R1 N001 out 0.5k
+R2 N001 N002 130k
+R3 N002 0 15k
+R4 Reference N002 100k
+V2 N001 0 5
+Q1 out N002 0 0 2N2222
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\BHUVANESH\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 0 100m 0 100n
+.options numdgt = 7
+.options plotwinsize =0
+.four 1000 10 100 V(reference) V(out)
+* FFT Basics
+.backanno
+.end
