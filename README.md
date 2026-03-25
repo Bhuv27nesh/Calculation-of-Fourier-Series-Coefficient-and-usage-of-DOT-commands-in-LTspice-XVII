@@ -1,0 +1,1 @@
+# Calculation-of-Fourier-Series-Coefficient-and-usage-of-DOT-commands-in-LTspice-XVII
