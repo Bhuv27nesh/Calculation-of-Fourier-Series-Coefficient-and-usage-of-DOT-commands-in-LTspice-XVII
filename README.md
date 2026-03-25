@@ -5,7 +5,7 @@
 
 **[About LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator/ltspice-recommended-reading-list.html)**
 
-**[LTspice Fourier Series](http://engredu.com/2022/06/08/ltspice-fourier-series/)
+**[LTspice Fourier Series](http://engredu.com/2022/06/08/ltspice-fourier-series/)**
 
 **[Dot Commands](https://spiceman.net/ltspice-command-list/)**  
 
