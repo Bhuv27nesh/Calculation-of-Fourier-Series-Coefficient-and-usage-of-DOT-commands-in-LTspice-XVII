@@ -1,6 +1,7 @@
 # Calculation-of-Fourier-Series-Coefficient-and-usage-of-DOT-commands-in-LTspice-XVII
 
 ## Pre-requisits :   
+**[Fourier Series in LTspice](https://github.com/Bhuv27nesh/Calculation-of-Fourier-Series-Coefficient-and-usage-of-DOT-commands-in-LTspice-XVII/wiki/Fourier-Series-in-LTspice)**
 
 **[Dot Commands](https://spiceman.net/ltspice-command-list/)**  
 
