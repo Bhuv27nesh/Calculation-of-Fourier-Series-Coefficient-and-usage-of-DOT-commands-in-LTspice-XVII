@@ -1,0 +1,21 @@
+Circuit: * E:\SOFTWARE\EXERCISE LTSPICE\FOURIER SERIES\Sawtooth_wave_gen_fourier_series.asc
+
+.OP point found by inspection.
+
+Date: Sun Mar 29 10:27:04 2026
+Total elapsed time: 0.202 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10034
+traniter = 10034
+tranpoints = 5018
+accept = 5018
+rejected = 0
+matrix size = 20
+fillins = 0
+solver = Normal
+Matrix Compiler1: 450 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.2]/0.2/0.4
+
